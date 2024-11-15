@@ -33,3 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arghaalex&show_icons=true&locale=en" alt="arghaalex" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arghaalex&" alt="arghaalex" /></p>
+
+## Leetcode stats ⚡
+![LeetCode Stats](https://leetcard.jacoblin.cool/argha2002?theme=radical&font=Fira%20Mono&ext=heatmap)
