@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Argha Banerjee</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=6c09b952oxp1v810ddbm5i8g7rdh7exgc60b7r9guaqd1zvb&ep=v1_gifs_search&rid=giphy.gif&ct=g ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arghaalex&label=Profile%20views&color=0e75b6&style=flat" alt="arghaalex" /> </p>
 
