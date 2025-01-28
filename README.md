@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=6c09b952oxp1v810ddbm5i8g7rdh7exgc60b7r9guaqd1zvb&ep=v1_gifs_search&rid=giphy.gif&ct=g ">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=4000&color=54F715&width=800&height=60&lines=%24+whoami)](https://git.io/typing-svg)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arghaalex&label=Profile%20views&color=0e75b6&style=flat" alt="arghaalex" /> </p>
 
