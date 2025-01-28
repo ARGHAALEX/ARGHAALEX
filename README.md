@@ -1,5 +1,5 @@
 [![MasterHade](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Argha Banerjee</h1>
+<h1 align="center">Hi 👋, I'm Argha Banerjee</h1> <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="20">
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=6c09b952oxp1v810ddbm5i8g7rdh7exgc60b7r9guaqd1zvb&ep=v1_gifs_search&rid=giphy.gif&ct=g ">
