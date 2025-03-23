@@ -36,7 +36,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arghaalex&" alt="arghaalex" /></p>
 <p><img align="center" src="https://user-images.githubusercontent.com/48355572/205911047-018378cb-c2e9-4a19-9d0a-0c3f6b559c42.png" alt="arghaalex" /></p>
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 ## Leetcode stats ⚡
 ![LeetCode Stats](https://leetcard.jacoblin.cool/argha2002?theme=radical&font=Fira%20Mono&ext=heatmap)
